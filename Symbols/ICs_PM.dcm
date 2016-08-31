@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTC3110EFE
+D bidirectional buck-boost DC to DC regulator with super capacitor charger and balancer 
+K power management, pmic, supercap, balancer, charger, backup
+$ENDCMP
+#
 $CMP S6AE101A
 D power management IC (PMIC) for solar energy harvesting
 K solar, harvest, PMIC, power management, energy
