@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LTC2935-2
+D Ultra-Low Power Supervisor with Power-Fail Output, selectable Thresholds
+K supervisor, pmic, power fail
+$ENDCMP
+#
 $CMP LTC3110EFE
 D bidirectional buck-boost DC to DC regulator with super capacitor charger and balancer 
 K power management, pmic, supercap, balancer, charger, backup
