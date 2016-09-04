@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP LTC2935-2
+$CMP LTC2935-2-TS8
 D Ultra-Low Power Supervisor with Power-Fail Output, selectable Thresholds
 K supervisor, pmic, power fail
 $ENDCMP
