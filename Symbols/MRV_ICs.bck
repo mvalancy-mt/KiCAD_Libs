@@ -15,6 +15,11 @@ D bidirectional buck-boost DC to DC regulator with super capacitor charger and b
 K power management, pmic, supercap, balancer, charger, backup
 $ENDCMP
 #
+$CMP MAX31730
+D 3-Channel Remote Temperature Sensor
+K temperature, sensor
+$ENDCMP
+#
 $CMP S6AE101A
 D power management IC (PMIC) for solar energy harvesting
 K solar, harvest, PMIC, power management, energy
