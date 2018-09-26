@@ -11,7 +11,7 @@ K supervisor, pmic, power fail
 $ENDCMP
 #
 $CMP LTC3110EFE
-D bidirectional buck-boost DC to DC regulator with super capacitor charger and balancer 
+D bidirectional buck-boost DC to DC regulator with super capacitor charger and balancer
 K power management, pmic, supercap, balancer, charger, backup
 $ENDCMP
 #
